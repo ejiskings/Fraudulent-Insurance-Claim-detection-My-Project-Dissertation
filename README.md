@@ -8,18 +8,15 @@ The repository includes exploratory data analysis, feature engineering,model dev
 📂 Repository Structure
 Code
 ├── data/
-│   ├── raw/                # Original datasets(insurance/employee/vendor)
-│   ├── merged/             # Combined datasets
-│   ├── processed/          # Cleaned and transformed datasets (train/test)
+│   ├── raw/                
+│   ├── merged/             
+│   ├── processed/          
 ├── notebooks/
-│   ├── EDA.ipynb           # Exploratory Data Analysis
+│   ├── EDA.ipynb           
 │   ├── Feature_Engineering.ipynb
 │   ├── Model_Building.ipynb
 │   ├── SMOTE_Model.ipynb
 │   ├── Advanced_Features.ipynb
-├── models/
-│   ├── saved_models/       # Serialized model files
-├── README.md
 
 🔍 Methodology
 1. 🧪 Exploratory Data Analysis (EDA)
